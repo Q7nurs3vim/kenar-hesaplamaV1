@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\uzun-kısa-kenarhesaplama\uzun-kısa-kenarhesaplama\bin\Debug\uzun-kısa-kenarhesaplama.exe.config
+C:\Users\User\source\repos\uzun-kısa-kenarhesaplama\uzun-kısa-kenarhesaplama\bin\Debug\uzun-kısa-kenarhesaplama.exe
+C:\Users\User\source\repos\uzun-kısa-kenarhesaplama\uzun-kısa-kenarhesaplama\bin\Debug\uzun-kısa-kenarhesaplama.pdb
+C:\Users\User\source\repos\uzun-kısa-kenarhesaplama\uzun-kısa-kenarhesaplama\obj\Debug\uzun-kısa-kenarhesaplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\uzun-kısa-kenarhesaplama\uzun-kısa-kenarhesaplama\obj\Debug\uzun-kısa-kenarhesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\uzun-kısa-kenarhesaplama\uzun-kısa-kenarhesaplama\obj\Debug\uzun_kısa_kenarhesaplama.Form1.resources
+C:\Users\User\source\repos\uzun-kısa-kenarhesaplama\uzun-kısa-kenarhesaplama\obj\Debug\uzun_kısa_kenarhesaplama.Properties.Resources.resources
+C:\Users\User\source\repos\uzun-kısa-kenarhesaplama\uzun-kısa-kenarhesaplama\obj\Debug\uzun-kısa-kenarhesaplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\uzun-kısa-kenarhesaplama\uzun-kısa-kenarhesaplama\obj\Debug\uzun-kısa-kenarhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\uzun-kısa-kenarhesaplama\uzun-kısa-kenarhesaplama\obj\Debug\uzun-kısa-kenarhesaplama.exe
+C:\Users\User\source\repos\uzun-kısa-kenarhesaplama\uzun-kısa-kenarhesaplama\obj\Debug\uzun-kısa-kenarhesaplama.pdb
